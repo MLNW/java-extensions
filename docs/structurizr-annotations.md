@@ -103,4 +103,4 @@ class JdbcRepository implements Repository {
 }
 ```
 
-See [StructurizrAnnotations.java](https://github.com/structurizr/java/blob/master/structurizr-examples/src/com/structurizr/example/StructurizrAnnotations.java) for the full source code illustrating how to use the various annotations in conjunction with the component finder. The resulting diagrams can be found at [https://structurizr.com/share/36571](https://structurizr.com/share/36571).
+See [StructurizrAnnotations.java](https://github.com/structurizr/java-extensions/blob/master/structurizr-examples/src/com/structurizr/example/StructurizrAnnotations.java) for the full source code illustrating how to use the various annotations in conjunction with the component finder. The resulting diagrams can be found at [https://structurizr.com/share/36571](https://structurizr.com/share/36571).
